@@ -15,7 +15,7 @@ body::before {
        (max-width: 1024px) and (-webkit-max-device-pixel-ratio: 1.5),
        (max-width: 1024px) and (max-resolution: 1.5dppx) {
   body::before {
-     background-color: #eee;
+     background-color: #e0e0e0;
   }
 }
 @media (min-width: 513px)  and (max-width: 1024px) and (-webkit-min-device-pixel-ratio: 1.5),
@@ -244,12 +244,10 @@ body .demo-blog {
   font-weight: 500;
 }
 .demo-blog .demo-blog__posts > .demo-nav > .demo-nav__button {
-  color: #b388ff;
   text-decoration: none;
 }
 .demo-blog .demo-blog__posts > .demo-nav .mdl-button {
   color: rgba(0,0,0,0.54);
-  background-color: #b388ff;
 }
 .demo-blog .demo-blog__posts > .demo-nav > .demo-nav__button:first-child .mdl-button {
   margin-right: 16px;
