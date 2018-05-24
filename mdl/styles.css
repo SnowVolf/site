@@ -221,7 +221,7 @@ body .demo-blog {
   border-bottom-right-radius: 2px;
 }
 .demo-blog .on-the-road-again .mdl-card__media {
-  background-image: url('images/road.jpg');
+  background-image: url('https://images.wallpaperscraft.ru/image/android_android_sistema_fon_robot_18600_1280x720.jpg');
 }
 .demo-blog .shopping .mdl-card__media {
   background-image: url('images/shopping.jpg');
@@ -281,7 +281,7 @@ body .demo-blog {
   background-color: transparent;
 }
 .demo-blog--blogpost .demo-blog__posts > .mdl-card .mdl-card__media {
-  background-image: url('images/road_big.jpg');
+  background-image: url('https://images.wallpaperscraft.ru/image/android_android_sistema_fon_robot_18600_1280x720.jpg');
   height: 280px;
 }
 .demo-blog--blogpost .comments {
